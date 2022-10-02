@@ -978,6 +978,7 @@ label#checkboxlabletwo {
     #apartmet_show,#retail-show,#location-show,#memeto-show,#vision-show,#questions-show,#developer-show {
         position: fixed;
         top: 50%;
+        
     }
     p#location-show {
         margin-left: 15px;
