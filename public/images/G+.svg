@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 46 46">
+  <g id="G_" data-name="G+" transform="translate(-309 -20)">
+    <g id="Ellipse_1432" data-name="Ellipse 1432" transform="translate(309 20)" fill="none" stroke="#ce1aff" stroke-width="2">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="22" fill="none"/>
+    </g>
+    <text id="G" transform="translate(327 52)" fill="#ce1aff" font-size="24" font-family="BrownLight" letter-spacing="0.4em"><tspan x="-7.284" y="0">G</tspan></text>
+    <text id="_" data-name="+" transform="translate(340 45)" fill="#ce1aff" font-size="20" font-family="BrownLight" letter-spacing="0.4em"><tspan x="-5.7" y="0">+</tspan></text>
+  </g>
+</svg>
